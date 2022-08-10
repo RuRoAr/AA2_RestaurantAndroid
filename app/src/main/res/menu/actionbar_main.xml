@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/new_restuarant"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/new_restaurant" />
+    <item
+        android:id="@+id/list_wine"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/list_wine1" />
+    <item
+        android:id="@+id/list_cocktail"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/list_cocktails1" />
+    <item
+        android:id="@+id/restaurant_found"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/restaurant_search" />
+    <item
+        android:id="@+id/camera"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/update_photo" />
+
+</menu>
